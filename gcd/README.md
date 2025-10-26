@@ -1,1 +1,1 @@
-Some basic version about gcd
+Some basic version about gcd, using long long
